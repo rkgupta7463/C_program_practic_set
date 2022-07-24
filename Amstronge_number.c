@@ -1,4 +1,4 @@
-// As we know that amstronge number is cube of individual number which we will give for input
+// As we know that amstronge number is cube of individual number and than that individual cube  will sum together which we will give for input
 
 #include <stdio.h>
 #include <stdlib.h>
